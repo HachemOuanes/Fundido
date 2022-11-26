@@ -1,0 +1,22 @@
+{
+  "name": "#1",
+  "description": "",
+  "external_url": "",
+  "image": "1.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "1022-560x800"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}
